@@ -1,0 +1,18 @@
+{
+  "name": "react-native-tabular",
+  "version": "0.0.1",
+  "description": "Tabular for react-native",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromewu/react-native-tabular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromewu/react-native-tabular/issues"
+  },
+  "homepage": "https://github.com/jeromewu/react-native-tabular#readme"
+}
